@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MIS_MapleItemSacrifice</string>
+    <string name="title_activity_explain">ExplainActivity</string>
+    <string name="back_btn_name">뒤로가기</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
