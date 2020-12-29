@@ -13,9 +13,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="344dp"
-        android:layout_height="616dp"
-        android:layout_centerInParent="true"
+        android:layout_width="450dp"
+        android:layout_height="700dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:padding="5dp"
         android:src="@drawable/item_backgrnd2" />
 
     <Button
